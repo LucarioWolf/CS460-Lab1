@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="C">C</string>
+    <string name="AC">AC</string>
+    <string name="StudentID">ID: 49860220</string>
+    <string name="StudentName">Alan Ruelas</string>
+</resources>
